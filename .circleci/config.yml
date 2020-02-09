@@ -27,7 +27,7 @@ jobs:
             - v1-dependencies-
 
       - run:
-          name: "dev"
+          name: "master"
           command: echo $CIRCLE_BRANCH # prints: XXXXXXX
       - run: yarn install
 
