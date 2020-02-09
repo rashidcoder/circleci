@@ -1,0 +1,23 @@
+{
+  "name": "circleci-practice",
+  "version": "0.0.1",
+  "description": "a practice of circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidcoder/circleci.git"
+  },
+  "keywords": [
+    "circleci",
+    "node"
+  ],
+  "author": "Rashid Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashidcoder/circleci/issues"
+  },
+  "homepage": "https://github.com/rashidcoder/circleci#readme"
+}
